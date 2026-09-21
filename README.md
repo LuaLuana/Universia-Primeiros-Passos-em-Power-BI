@@ -56,7 +56,7 @@ Relatório criado no Power BI a partir da planilha de exemplo **Financial Sample
 Criação de um banco MySQL na nuvem (Aiven), integração com o Power BI e transformação dos dados no Power Query: ajuste de tipos, tratamento de nulos, mesclagem de tabelas, junção de colaboradores com seus gerentes e agrupamento de dados.
 
 - 📂 Pasta: [`Processamento de Dados com Power BI`](./Processamento%20de%20Dados%20com%20Power%20BI)
-- 📄 Relatórios: [`01_schema_e_dados.sql`](./fundamento%20de%20BI/relatorio%20gerencial%20de%20vendas.pbix)
+- 📄 Relatórios: [`01_schema_e_dados.sql`](./Processamento%20de%20Dados%20com%20Power%20BI/01_schema_e_dados.sql)
 - 📄 Relatórios: [`02_diagnostico_e_consultass.sql`](./Processamento%20de%20Dados%20com%20Power%20BI/02_diagnostico_e_consultas.sqlx)
 - 📗 Base de dados: [`company dados dashboard.xlsx`](./Processamento%20de%20Dados%20com%20Power%20BI/company_dados_dashboard.xlsx)
 ---
