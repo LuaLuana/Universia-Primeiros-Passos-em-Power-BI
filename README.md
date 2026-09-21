@@ -30,7 +30,7 @@ O bootcamp tem como objetivo ensinar os primeiros passos na **análise de dados*
 | **Power BI Desktop** | Transformação dos dados e criação dos relatórios |
 | **Excel** | Base de dados de exemplo (Financial Sample) |
 | **NotebookLM** | Apoio aos estudos: resumos e perguntas sobre o conteúdo do curso |
-| **MySQL (Aiven)** | Banco de dados na nuvem do desafio de integração com o Power BI |
+| **MySQL (Azure)** | Banco de dados na nuvem do desafio de integração com o Power BI |
 | **Git e GitHub** | Versionamento e publicação dos projetos |
 
 ---
