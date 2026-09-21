@@ -57,6 +57,9 @@ Criação de um banco MySQL na nuvem (Aiven), integração com o Power BI e tran
 
 - 📂 Pasta: *adicione aqui o link da pasta quando publicar o projeto*
 
+- 📂 Pasta: [`Processamento de Dados com Power BI`](./Processamento%20de%20Dados%20com%20Power%20BI)
+- 📄 Relatórios: [`01_schema_e_dados.sql`](./fundamento%20de%20BI/relatorio%20gerencial%20de%20vendas.pbix)
+- 📗 Base de dados: [`company dados dashboard.xlsx`](./Processamento%20de%20Dados%20com%20Power%20BI/company_dados_dashboard.xlsx)
 ---
 
 ## ▶️ Como abrir o relatório
