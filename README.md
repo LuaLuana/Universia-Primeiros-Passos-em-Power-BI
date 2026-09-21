@@ -75,7 +75,7 @@ Criação de um banco MySQL na nuvem (Aiven), integração com o Power BI e tran
 - [x] Importação de dados do Excel
 - [x] Criação de um relatório gerencial de vendas
 - [x] Conexão com banco de dados MySQL na nuvem
-- [ ] Modelagem de dados (modelo estrela)
+- [ ] Modelagem de dados
 - [ ] Introdução a medidas em DAX
 
 ---
