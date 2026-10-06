@@ -4,7 +4,7 @@ Desafio de projeto: transformar a tabela única **Financial Sample** em um model
 
 ## Esquema em estrela
 
-![Esquema em estrela](imagens/star_schema.svg)
+![Esquema em estrela](StarSchema.png)
 
 ## Tabelas do modelo
 
